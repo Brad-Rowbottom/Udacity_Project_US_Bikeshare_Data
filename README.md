@@ -10,6 +10,6 @@ Replace the Project Title
 Describe what your project is about and what it does
 
 ### Files used
-chicago.zip
-washington.zip
-new_york_city.zip
+- chicago.zip
+- washington.zip
+- new_york_city.zip
